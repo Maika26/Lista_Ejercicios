@@ -21,7 +21,8 @@ namespace Ejercicio5
                 Console.WriteLine("Ingrese la nota 1: ");
                 notas = double.Parse(Console.ReadLine());
             }
-            //el promedio es igual a la suma de todas las notas ingresadas divididas
+            //el promedio es igual a la suma de todas
+            // las notas ingresadas divididas
             //por la cantidad de notas
             //promedio = 
 

@@ -14,7 +14,10 @@ namespace Ejercicio6
             Console.WriteLine("Ingrese un numero: ");
             num = int.Parse(Console.ReadLine());
             Console.ReadLine();
-            
+            for(int x = 1; x <= num; x+=2)
+            {
+                Console.WriteLine(x);
+            }
 
             Console.ReadLine();
 
